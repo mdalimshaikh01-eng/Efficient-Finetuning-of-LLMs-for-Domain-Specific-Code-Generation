@@ -1,0 +1,13 @@
+The large code dataset contains four columns. 
+1. Name: It contains a code name of the test case
+2. Summary: It contains a small one or two line summary of the test case.
+3. Test steps: It contains number of steps which we need to follow to generate the test code. It also contains expected output of some of the steps.
+4. Code: The test code of the corresponding test case.
+
+
+The small (colama) code dataset contains five columns.
+
+1. Name: It contains a code name of the test case.
+2. Summary: It contains a small one or two line summary of the test case.
+3. Input and output: Expected inputs and output.
+4. Code: The test code of the corresponding test case. 
